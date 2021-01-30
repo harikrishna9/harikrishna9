@@ -1,4 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h2> Hi, I'm Anshu! <img src="https://media.giphy.com/media/ZFtvuSCT2fGVl34Wpi/giphy.gif" width="50"></h2>
+
 
 👯 I’m looking to collaborate on machine learning projects
 
