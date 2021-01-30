@@ -5,7 +5,7 @@
 
 I am a self-driven, self-taught, and highly motivated data science practitioner!
 
-👯 I’m looking to collaborate on machine learning projects
+👯 I’m looking to collaborate on data science and machine learning projects
 
 
 <h2 align="left">Tech Stack</h2>
@@ -26,6 +26,9 @@ I am a self-driven, self-taught, and highly motivated data science practitioner!
 </a>
 <a href="https://www.instagram.com/im_hari.c/">
   <img align="left" alt="Anshu Sinha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="mailto:mrharic9@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <br />
