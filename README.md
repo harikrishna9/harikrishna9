@@ -1,4 +1,4 @@
-<h2> Hi, I'm Hari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, I'm Hari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
 <img align='right' src="https://media.giphy.com/media/vNTs0HEuSdj13sPa3F/giphy.gif" width="230">
 
