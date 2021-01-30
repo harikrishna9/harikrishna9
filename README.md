@@ -1,8 +1,9 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h2> Hi, I'm Anshu! <img src="https://media.giphy.com/media/ZFtvuSCT2fGVl34Wpi/giphy.gif" width="50"></h2>
-
+<h2> Hi, I'm Hari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 👯 I’m looking to collaborate on machine learning projects
+
+
+![Hari github stats](https://github-readme-stats.vercel.app/api?username=harikrishna9&show_icons=true&theme=gruvbox)
 
 ### Let's connect
 <a href="https://twitter.com/im_haric">
