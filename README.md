@@ -2,7 +2,15 @@
   
 <img align='right' src="https://media.giphy.com/media/vNTs0HEuSdj13sPa3F/giphy.gif" width="230">
 
+
+I am a self-driven, self-taught, and highly motivated data science practitioner!
+
 👯 I’m looking to collaborate on machine learning projects
+
+
+<h2 align="left">Tech Stack</h2>
+
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/> 
 
 
 ![Hari github stats](https://github-readme-stats.vercel.app/api?username=harikrishna9&show_icons=true&theme=gruvbox)
