@@ -29,7 +29,7 @@ I am a self-driven, self-taught, and highly motivated data science practitioner!
   <img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.kaggle.com/harikrishna9">
-  <img alt="Kaggle" width="22px" src="https://image.winudf.com/v2/image/Y29tLnJhZmF0aGVuZy5LYWdnbGVfSW5faWNvbl8xNTMwNjM3MjQ5XzAyNw/icon.png?w=170&fakeurl=1" />
+  <img alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />
 </a>
 <a href="mailto:mrharic9@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
