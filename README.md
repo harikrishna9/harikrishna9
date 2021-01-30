@@ -5,7 +5,7 @@
 
 I am a self-driven, self-taught, and highly motivated data science practitioner!
 
-👯 I’m looking to collaborate on data science and machine learning projects
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m looking to collaborate on data science and machine learning projects
 
 
 <h2 align="left">Tech Stack</h2>
