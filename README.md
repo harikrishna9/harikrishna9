@@ -1,7 +1,6 @@
-<h2> Hi, I'm Hari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi, I'm Hari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-- I’m looking to collaborate on machine learning projects
+-I’m looking to collaborate on machine learning projects
 
 
 ![Hari github stats](https://github-readme-stats.vercel.app/api?username=harikrishna9&show_icons=true&theme=gruvbox)
