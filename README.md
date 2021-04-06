@@ -1,6 +1,6 @@
 ### Hi, I'm Hari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
-<img align='right' src=![image](https://user-images.githubusercontent.com/64153519/113668601-1e42f280-96d0-11eb-8792-aed34ad3f7ff.png) width="230">
+<img align='right' src="https://magazine.xpert.tv/wp-content/uploads/2020/07/giphy-25.gif" width="230">
 
 
 I am a self-driven, self-taught, and highly motivated data science practitioner!
