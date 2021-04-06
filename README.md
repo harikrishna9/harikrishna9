@@ -1,6 +1,6 @@
 ### Hi, I'm Hari! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
-<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fmachine%2Blearning&psig=AOvVaw1rEEiLXGBqCGLSCHed7m5S&ust=1617776868367000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjgyND-6O8CFQAAAAAdAAAAABAN width="230">
+<img align='right' src= https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fmachine%2Blearning&psig=AOvVaw1rEEiLXGBqCGLSCHed7m5S&ust=1617776868367000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjgyND-6O8CFQAAAAAdAAAAABAN width="230">
 
 
 I am a self-driven, self-taught, and highly motivated data science practitioner!
