@@ -22,7 +22,7 @@ I’m looking to collaborate on data science and machine learning projects
 <a href="https://twitter.com/im_haric">
   <img align="left" alt="twitter" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://https://www.linkedin.com/in/hari-krishna-c-a1a8571a0/">
+<a href="https://www.linkedin.com/in/hari-krishna-c-a1a8571a0/">
   <img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/im_hari.c/">
